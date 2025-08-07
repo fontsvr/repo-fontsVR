@@ -1,0 +1,160 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>Addons4Kodi</name>
+            <path pathversion="1">https://a4k-openproject.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Alfa</name>
+            <path pathversion="1">https://alfa-addon.com/alfa/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Balandro</name>
+            <path pathversion="1">https://repobal.github.io/base/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Bugatsinho(HD Sports...)</name>
+            <path pathversion="1">https://bugatsinho.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>GTKing</name>
+            <path pathversion="1">https://gtkingbuild.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>fontsVR</name>
+            <path pathversion="1">https://fontsvr.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+		<source>
+            <name>fontsvr21</name>
+            <path pathversion="1">https://fontsvr.github.io/omega/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Hiraya</name>
+            <path pathversion="1">https://hirayasoftware.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Kelebek</name>
+            <path pathversion="1">https://kelebekmariposas.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+		<source>
+            <name>Kodiadictos</name>
+            <path pathversion="1">https://kodiadictos.github.io/fuente/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Kodinerds</name>
+            <path pathversion="1">https://repo.kodinerds.net/addons/repository.kodinerds/repository.kodinerds-7.0.1.6.zip</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Kodispaintv</name>
+            <path pathversion="1">http://konectas.es/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Kodispaintv_</name>
+            <path pathversion="1">https://teamsix-fuente.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Magellan</name>
+            <path pathversion="1">https://tinyurl.com/magellanrepo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Luar</name>
+            <path pathversion="1">https://luarsource.github.io/Fuente/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Palantir</name>
+            <path pathversion="1">https://palantirsource.github.io/palantir/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Slyguy</name>
+            <path pathversion="1">https://k.slyguy.xyz/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Stream Army</name>
+            <path pathversion="1">http://streamarmy.co.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>The Crew</name>
+            <path pathversion="1">https://team-crew.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>TVChopo</name>
+            <path pathversion="1">https://fuente-tvchopo.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Dobbelina</name>
+            <path pathversion="1">https://dobbelina.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Michaz</name>
+            <path pathversion="1">https://michaz1988.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Grindhouse</name>
+            <path pathversion="1">https://grindhousekodi.us/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>STVA</name>
+            <path pathversion="1">https://stvabuild.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Drinfernoo</name>
+            <path pathversion="1">https://drinfernoo.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Scrubs</name>
+            <path pathversion="1">https://jewbmx.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>skin/extras/backgrounds</name>
+            <path pathversion="1">special://skin/extras/backgrounds/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>home/media/backgrounds</name>
+            <path pathversion="1">special://home/media/backgrounds/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>

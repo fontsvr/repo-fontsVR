@@ -1,0 +1,14 @@
+
+name="[B][COLOR white]•• [COLOR green]Ajustes: [COLOR crimson]VR20 Aeon [COLOR tan]10/01/2024[/COLOR][/B]"
+url="https://github.com/fontsvr/repo-fontsVR/raw/rel/VR20Aeon-ajustes.zip"
+icon="https://fontsvr.github.io/wizard/imagenes/VR20Aeon_frontal.png"
+fanart="https://fontsvr.github.io/wizard/imagenes/VR20Aeon_fanart.png"
+adult="no"
+description="Ajustes VR20 Aeon para build Kodi 20.x o para skin VR20(10/01/2024)"
+
+name=""
+url="https://"
+icon="https://"
+fanart="https://"
+adult="no"
+description="fontsVR"

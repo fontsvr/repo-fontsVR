@@ -1,0 +1,34 @@
+13
+|||
+
+[COLOR greenyellow][B]¡¡¡BIENVENIDOS A LA BUILD RikTeam Wizard NEXUS!!![B][/COLOR]
+
+[COLOR aquamarine][B]INSTALACIÓN:[B][/COLOR]
+
+[COLOR deepskyblue]* Para realizar la instalación correctamente deberás pulsar en la opción [COLOR white][B]"Build Menu"[/B][/COLOR] en la ventana que aparece después de instalar el plugin instalador (Wizard).
+
+En ésta ventana de Notificación, damos a [COLOR white][B]"Cerrar"[/B][/COLOR]
+Seleccionamos la Build que deseas instalar de [COLOR yellowgreen][B]RikTeam Wizard[/B][/COLOR] - [COLOR yellow][B]Instalar Build[/B][/COLOR]. 
+Cuando termine de instalar, nos saldrá una ventana [COLOR white][B]"Necesita Forzar el Cierre de Kodi"[/B][/COLOR]. Pulsaremos en [COLOR white][B]"OK"[/B][/COLOR].
+Se cerrará Kodi y ya sólo nos quedará iniciar de nuevo Kodi, darle unos minutos para que cargue el menú correctamente.
+
+[COLOR gold][B]08/08/2023 ¡¡¡PARCHES ACTUALIZADORES DE AJUSTES PARA LAS BUILDS!!![/B][/COLOR]
+
+[COLOR red][B]* AÑADIDOS ATAJOS POR PLATAFORMAS EN EL APARTADO SERIES[/B][/COLOR]
+
+[COLOR aquamarine][B]INSTALACIÓN DE PARCHE:[/B][/COLOR]
+
+Para instalar un parche, deberemos seleccionar la build correspondiente que tengamos instalada y dentro nos saldrá el/los parches disponibles para instalar.
+
+Después de la instalacion del parche, una vez cargado KODI se tiene que ir a la sección MANTENIMIENTO en AJUSTES, una vez allí entrar en HERRAMIENTAS ADDON, pulsar HABILITAR/DESHABILITAR ADDONS y luego HABILITAR TODOS para la correcta activación de los Addons añadidos.
+
+
+[COLOR red]                   ****** RikTeam ******                 [/COLOR]
+
+
+[COLOR dodgerblue]https://t.me/rikteam[/COLOR]
+
+[COLOR white][B]GRACIAS POR UTILIZAR [COLOR dodgerblue]RikTeam Wizard [COLOR violet]NEXUS[/B][/COLOR]
+
+  
+
