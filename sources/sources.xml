@@ -24,6 +24,31 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
+            <name>Kodiadictos</name>
+            <path pathversion="1">https://kodiadictos.github.io/fuente/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Kodinerds</name>
+            <path pathversion="1">https://repo.kodinerds.net/addons/repository.kodinerds/repository.kodinerds-7.0.1.6.zip</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>fontsvr21</name>
+            <path pathversion="1">https://fontsvr.github.io/omega/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Kodispaintv_</name>
+            <path pathversion="1">https://teamsix-fuente.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>GTKing</name>
+            <path pathversion="1">https://gtkingbuild.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
             <name>Balandro</name>
             <path pathversion="1">https://repobal.github.io/base/</path>
             <allowsharing>true</allowsharing>
@@ -34,18 +59,8 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>GTKing</name>
-            <path pathversion="1">https://gtkingbuild.github.io/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>fontsVR</name>
-            <path pathversion="1">https://fontsvr.github.io/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-		<source>
-            <name>fontsvr21</name>
-            <path pathversion="1">https://fontsvr.github.io/omega/</path>
+            <name>Dregs1</name>
+            <path pathversion="1">https://dregs1.github.io/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -58,24 +73,14 @@
             <path pathversion="1">https://kelebekmariposas.github.io/</path>
             <allowsharing>true</allowsharing>
         </source>
-		<source>
-            <name>Kodiadictos</name>
-            <path pathversion="1">https://kodiadictos.github.io/fuente/</path>
+        <source>
+            <name>Palantir</name>
+            <path pathversion="1">https://palantirsource.github.io/palantir/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>Kodinerds</name>
-            <path pathversion="1">https://repo.kodinerds.net/addons/repository.kodinerds/repository.kodinerds-7.0.1.6.zip</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Kodispaintv</name>
-            <path pathversion="1">http://konectas.es/repo/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Kodispaintv_</name>
-            <path pathversion="1">https://teamsix-fuente.github.io/</path>
+            <name>fontsVR</name>
+            <path pathversion="1">https://fontsvr.github.io/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -89,8 +94,8 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>Palantir</name>
-            <path pathversion="1">https://palantirsource.github.io/palantir/</path>
+            <name>Blackgost</name>
+            <path pathversion="1">https://repobg.github.io/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -99,18 +104,13 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>Stream Army</name>
-            <path pathversion="1">http://streamarmy.co.uk/repo/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
             <name>The Crew</name>
             <path pathversion="1">https://team-crew.github.io/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>TVChopo</name>
-            <path pathversion="1">https://fuente-tvchopo.github.io/</path>
+            <name>Stream Army</name>
+            <path pathversion="1">http://streamarmy.co.uk/repo/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -125,7 +125,12 @@
         </source>
         <source>
             <name>Grindhouse</name>
-            <path pathversion="1">https://grindhousekodi.us/repo/</path>
+            <path pathversion="1">http://grindhousekodi.tk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Rajada</name>
+            <path pathversion="1">https://addon-rajada.github.io/</path>
             <allowsharing>true</allowsharing>
         </source>
         <source>
@@ -151,6 +156,11 @@
         <source>
             <name>home/media/backgrounds</name>
             <path pathversion="1">special://home/media/backgrounds/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>comet</name>
+            <path pathversion="1">https://g0ldyy.github.io/comet</path>
             <allowsharing>true</allowsharing>
         </source>
     </files>
