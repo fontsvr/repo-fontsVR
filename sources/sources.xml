@@ -94,6 +94,11 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
+            <name>Loop</name>
+            <path pathversion="1">https://loopaddon.uk/theloop/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
             <name>Blackgost</name>
             <path pathversion="1">https://repobg.github.io/</path>
             <allowsharing>true</allowsharing>
