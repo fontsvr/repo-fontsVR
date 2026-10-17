@@ -24,6 +24,11 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
+            <name>Angelitto</name>
+            <path pathversion="1">https://angelitto2005.github.io/repository.angelitto</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
             <name>Kodiadictos</name>
             <path pathversion="1">https://kodiadictos.github.io/fuente/</path>
             <allowsharing>true</allowsharing>
